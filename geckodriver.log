@@ -55,3 +55,35 @@ console.warn: Asynchronous operation was aborted as selection changed.
 1503195226596	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
 1503195226597	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36880
 1503195289789	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "SSL is required and URI scheme is not https."  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 145"  data: no]
+1503195354865	geckodriver	INFO	Listening on 127.0.0.1:47919
+1503195355964	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.9ShhWUF46kvz
+1503195355965	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1503195355966	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45395
+1503195528269	geckodriver	INFO	Listening on 127.0.0.1:40830
+1503195529403	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.6pxHFxPNOn4l
+1503195529403	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1503195529405	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37144
+console.warn: Asynchronous operation was aborted as selection changed.
+console.warn: Asynchronous operation was aborted as selection changed.
+1503195592556	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "SSL is required and URI scheme is not https."  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 145"  data: no]
+JavaScript warning: https://www.google.co.in/xjs/_/js/k=xjs.s.en.5MkZluRNHRY.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,d,csi/am=gEUYOV5wAOT_hFAYuIWwUFLAxAEE/rt=j/d=1/t=zcms/rs=ACT90oE3_deEEKqKqM2f8ZFQ7KgjpSJcZw, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+console.warn: Asynchronous operation was aborted as selection changed.
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn1.animationsActor23
+1503195699094	geckodriver	INFO	Listening on 127.0.0.1:45568
+1503195700233	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.EHsLGqe3GkyP
+1503195700234	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1503195700235	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34924
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.animationsActor23
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.animationsActor23
+1503195830480	geckodriver	INFO	Listening on 127.0.0.1:52288
+1503195831581	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.g5IhxlPTPZSS
+1503195831582	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1503195831583	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38271
+
+(firefox:24705): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1503195844668 Marionette: Element is missing an accesible name -> id: Text, tagName: TEXTAREA, className: form-control remove-border
+
+(firefox:24705): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
